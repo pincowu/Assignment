@@ -1,3 +1,9 @@
+//
+//  main.cpp
+// Overloaded Assignment Operator Code
+// COSC 1437
+// Created by Suiping Wu(Pinco Wu) on 10/30/25.
+//
 #include <iostream>
 using namespace std;
 
